@@ -1,0 +1,18 @@
+{
+  "content": [
+    {
+      "name": "Mars",
+      "title": "Message from Mars",
+      "chapterTitle": "A Message from Mars: Captain Red Scum Speaks!",
+      "content": "<p> Greetings, Earthlings! This is Captain Red Scum, your intergalactic hero reporting live from the surface of Mars! After braving cosmic storms and traversing treacherous terrains,</p> <p>I've uncovered astonishing secrets and out-of-this-world adventures to share with you.</p> <p>Tune in for thrilling updates, incredible discoveries, and the heroic tales of my Martian mission. Strap in and get ready to explore the Red Planet like never before-only today with Captain Cosmos</p>",
+      "image": "/assets/images/redscum_front.jpg"
+    },
+    {
+      "name": "Ping",
+      "title": "",
+      "chapterTitle": "",
+      "content": "",
+      "image": "/assets/images/pingpang_front.jpg"
+    }
+  ]
+}
