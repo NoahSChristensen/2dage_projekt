@@ -5,14 +5,57 @@
       "title": "Message from Mars",
       "chapterTitle": "A Message from Mars: Captain Red Scum Speaks!",
       "content": "<p> Greetings, Earthlings! This is Captain Red Scum, your intergalactic hero reporting live from the surface of Mars! After braving cosmic storms and traversing treacherous terrains,</p> <p>I've uncovered astonishing secrets and out-of-this-world adventures to share with you.</p> <p>Tune in for thrilling updates, incredible discoveries, and the heroic tales of my Martian mission. Strap in and get ready to explore the Red Planet like never before-only today with Captain Cosmos</p>",
-      "image": "/assets/images/redscum_front.jpg"
+      "imageFront": "/assets/images/redscum_front.jpg",
+      "imageSub": "/assets/images/redscum_subpage.jpg",
+      "color": [
+        {
+          "Color": "#cac9c7"
+        },
+        {
+          "Color": "#e3d3bf"
+        },
+        {
+          "Color": "#bb635b"
+        }
+      ]
     },
     {
-      "name": "Ping",
-      "title": "",
-      "chapterTitle": "",
-      "content": "",
-      "image": "/assets/images/pingpang_front.jpg"
+      "name": "Ping Pang",
+      "title": "No empathy",
+      "chapterTitle": "A Message from Earth: Ping Pang Speaks!",
+      "content": "<p>While I might not actually be on Mars, I’ve discovered incredible secrets and stories about the Red Planet right here from my hidden base on Earth.</p> <p>Join me as I share fascinating insights, decode mysterious messages, and take you on thrilling adventures inspired by Mars. Get ready to explore the cosmos with Ping Pang, your guide to the wonders of the universe from a secret place on Earth!</p>",
+      "imageFront": "/assets/images/pingpang_front.jpg",
+      "imageSub": "/assets/images/pingpang_subpage.jpg",
+      "color": [
+        {
+          "Color": "#676767"
+        },
+        {
+          "Color": "#f2c165"
+        },
+        {
+          "Color": "#ec815d"
+        }
+      ]
+    },
+    {
+      "name": "Dangerous Cowbell",
+      "title": "Floating in space",
+      "chapterTitle": "Floating in Space: The Adventures of Dangerous Cowbell!",
+      "content": "<p>Greetings, cosmic adventurers! It's me, Dangerous Cowbell, your daring and fearless space explorer, floating through the infinite wonders of the cosmos!</p> <p>Equipped with my trusty bell and boundless courage, I navigate through asteroid fields, dodge comets, and uncover the mysteries of the universe.</p> <p>Join me on a gravity-defying journey as I share thrilling tales, incredible discoveries, and the secrets of deep space. Get ready to embark on an interstellar adventure with Dangerous Cowbell, where the excitement never ends!</p>",
+      "imageFront": "/assets/images/dangerouscowbel_front.jpg",
+      "imageSub": "/assets/images/dangerouscowbell_subpage.jpg",
+      "color": [
+        {
+          "Color": "#5c6167"
+        },
+        {
+          "Color": "#f2b5d7"
+        },
+        {
+          "Color": "#d79db6"
+        }
+      ]
     }
   ]
 }

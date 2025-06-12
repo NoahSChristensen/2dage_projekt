@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+#container {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  margin-top: 5rem;
+  min-height: 100vh;
+  width: calc(30rem + 30vw);
+
+  .chapTitle {
+    background-color: black;
+    color: white;
+    width: auto;
+    padding: 0.5rem;
+    transform: rotate(-5deg);
+    margin-right: auto;
+    margin-left: 4rem;
+
+    h1 {
+      text-align: center;
+      font-weight: 700;
+      font-family: "Quicksand", sans-serif;
+      font-optical-sizing: auto;
+      font-style: normal;
+      font-size: calc(1.5rem + 1.5vw);
+    }
+  }
+
+  #contentContainer {
+    display: grid;
+    grid-template-columns: auto auto;
+
+    .imageCon {
+      margin-right: auto;
+      margin-left: auto;
+      background-color: white;
+      padding: 16px;
+      box-shadow: 0px 0px 1rem;
+      width: fit-content;
+      height: auto;
+      align-items: start;
+    }
+
+
+    #textContainer {
+      color: black;
+      padding: 1rem;
+      font-weight: 600;
+      font-family: "Quicksand", sans-serif;
+      font-optical-sizing: auto;
+      font-style: normal;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      min-height: 800px;
+
+      h2 {
+        font-weight: 700;
+        font-size: 1.1rem;
+      }
+
+      article {
+        margin-top: 1rem;
+        display: grid;
+        grid-template-rows: auto auto auto;
+        gap: 1rem;
+      }
+
+      section {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        width: 6rem;
+        gap: 0.5rem;
+        margin-left: auto;
+        margin-top: auto;
+        div {
+          width: 2rem;
+          height: 2rem;
+        }
+      }
+    }
+  }
+}
